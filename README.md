@@ -1,12 +1,13 @@
-# chromadb-bun-issue
+# Segmentation Fault Error in Bun with ChromaDB
 
-To install dependencies:
+1. Run Setup Script:
 
 ```bash
-bun install
+chmod +x ./setup.sh
+./setup.sh
 ```
 
-To run:
+2. Run the Reproduction Script
 
 ```bash
 bun run index.ts
