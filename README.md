@@ -1,5 +1,7 @@
 # Segmentation Fault Error in Bun with ChromaDB
 
+Linked issue in bun repo - [#6211](https://github.com/oven-sh/bun/issues/6211)
+
 1. Run Setup Script:
 
 ```bash
